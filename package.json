@@ -6,7 +6,9 @@
   "scripts": {
     "test": "jest --coverage",
     "build": "webpack --mode production",
-    "start": "webpack serve --mode development"
+    "start": "webpack serve --mode development",
+    "prettier": "prettier --check .",
+    "lint": "eslint src/**.tsx"
   },
   "author": "Antoine JULIENNE",
   "license": "MIT",
@@ -27,9 +29,11 @@
     "babel-loader": "^8.1.0",
     "css-loader": "^5.0.0",
     "eslint": "^7.12.1",
+    "eslint-config-prettier": "^6.15.0",
     "html-webpack-plugin": "^4.5.0",
     "jest": "^26.6.1",
     "jest-transform-css": "^2.1.0",
+    "prettier": "2.1.2",
     "sass": "^1.28.0",
     "sass-loader": "^10.0.4",
     "style-loader": "^2.0.0",
