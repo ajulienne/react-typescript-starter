@@ -2,14 +2,15 @@
   "name": "react-typescript-starter",
   "version": "1.0.0",
   "description": "A minimalistic React/Typescript starter project",
-  "main": "index.js",
+  "main": "src/index.tsx",
   "scripts": {
     "test": "jest --coverage",
     "build": "webpack --mode production",
     "start": "webpack serve --mode development"
   },
   "author": "Antoine JULIENNE",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": "github:ajulienne/react-typescript-starter",
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
