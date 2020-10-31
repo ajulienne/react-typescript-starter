@@ -7,7 +7,8 @@
     "test": "jest --coverage",
     "build": "webpack --mode production",
     "start": "webpack serve --mode development",
-    "prettier": "prettier --check .",
+    "prettier": "prettier --write .",
+    "prettier:ci": "prettier --check .",
     "lint": "eslint src/**.tsx"
   },
   "author": "Antoine JULIENNE",

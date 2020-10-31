@@ -15,3 +15,6 @@ Featuring :
 - `start` : Launch the webpack server, for development purposes
 - `build` : Bundle a production package in the _dist_ folder
 - `test` : Launch tests with Jest
+- `lint` : Run ESLint on all tsx files
+- `prettier` : Prettify all the files
+- `prettier:ci` : Check if Prettify has been ran
