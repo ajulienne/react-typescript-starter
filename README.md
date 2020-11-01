@@ -1,5 +1,9 @@
 # Minimalistic React starter
 
+<p style="text-align:center;">
+  <img src="./docs/libraries.png" />
+</p>
+
 Featuring :
 
 - React (duh)
