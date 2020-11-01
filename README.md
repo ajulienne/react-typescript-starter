@@ -10,9 +10,10 @@ Featuring :
 - Typescript
 - Jest
 - React Testing Library
-- Sass
-- ESlint
+- Prettier
 - Webpack / babel
+- ESlint
+- Sass
 
 ## Available commands
 
