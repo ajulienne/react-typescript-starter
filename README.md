@@ -1,12 +1,12 @@
 # Minimalistic React starter
 
-<p style="text-align:center;">
-  <img src="./docs/libraries.png" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ajulienne/react-typescript-starter/master/docs/libraries.png" />
 </p>
 
 Featuring :
 
-- React (duh)
+- React (duh.)
 - Typescript
 - Jest
 - React Testing Library
